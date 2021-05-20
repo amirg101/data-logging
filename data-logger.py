@@ -8,6 +8,6 @@ with open("info.csv","a") as f:
         
         phone=input("Phone Number :")
         place=input("Place :")
-        temp=input("Temperature :")
+        temp=input("Temperature(F) :")
         f.writelines(f'\n{name},{phone},{place},{temp}')
 f.close()
