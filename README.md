@@ -11,5 +11,6 @@ The program should be able to gather the four inputs mentioned earlier. Besides,
 # GUI -> Data Logging
 Using tkinter library
 
-![Screenshot (269)](https://user-images.githubusercontent.com/31856332/118975144-4ee59f80-b991-11eb-8875-60b6f6bdd645.png)
 ![Screenshot (268)](https://user-images.githubusercontent.com/31856332/118975146-4f7e3600-b991-11eb-80e5-3c22c38c4274.png)
+
+![Screenshot (269)](https://user-images.githubusercontent.com/31856332/118975144-4ee59f80-b991-11eb-8875-60b6f6bdd645.png)
