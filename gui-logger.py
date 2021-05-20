@@ -39,7 +39,7 @@ head_label = Label(root, text='Data-Logging', font=('calibre', 33, 'bold'))
 name_label = Label(root, text='Name', font=('calibre', 20, 'bold'))
 phone_label = Label(root, text='Phone Number', font=('calibre', 20, 'bold'))
 place_label = Label(root, text='Place', font=('calibre', 20, 'bold'))
-temp_label = Label(root, text='Temperature', font=('calibre', 20, 'bold'))
+temp_label = Label(root, text='Temperature (F)', font=('calibre', 20, 'bold'))
 
 name_entry = Entry(root, textvariable=name_var, font=('calibre', 20, 'normal'))
 phone_entry = Entry(root, textvariable=phone_var, font=('calibre', 20, 'normal'))
